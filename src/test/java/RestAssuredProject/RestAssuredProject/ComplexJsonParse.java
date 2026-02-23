@@ -6,7 +6,7 @@ import io.restassured.path.json.JsonPath;
 public class ComplexJsonParse {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// testing GIT Push & Pull
 
 		JsonPath js = new JsonPath(payload.CoursePrice());
 		// Print No of courses returned by API
@@ -47,3 +47,4 @@ public class ComplexJsonParse {
 	}
 
 }
+
