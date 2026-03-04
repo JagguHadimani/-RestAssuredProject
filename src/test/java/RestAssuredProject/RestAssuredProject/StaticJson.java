@@ -59,7 +59,7 @@ then().assertThat().statusCode(200).
 
 extract().response();
 
-JsonPath js= ReusableMethods.rawToJson(resp);
+JsonPath js= reusableMethods.rawToJson(resp);
 
    String id=js.get("ID");
 
