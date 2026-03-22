@@ -16,6 +16,7 @@ public class APIAutomationBasics {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		System.out.println("API Automation Basics -trying Git Bash");
 		
 		/* ***Validate if the Add Place API is working as expected** */
 		
